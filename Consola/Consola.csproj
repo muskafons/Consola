@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Aleatorio.cs" />
+    <Compile Include="Class1.cs" />
     <Compile Include="Estructura\Lista.cs" />
     <Compile Include="PedirDatos.cs" />
     <Compile Include="Herencia\Gorila.cs" />
