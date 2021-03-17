@@ -18,6 +18,7 @@ namespace Consola
             while (true)
             {
                 Console.WriteLine(contador);
+                Console.WriteLine("No se dañe");
                 if (Console.ReadLine() != "") break; //Si la entrada es diferente de ENTER, acaba el programa
                 Console.Clear();
                 contador++;
