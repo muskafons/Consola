@@ -13,5 +13,9 @@ namespace Consola
             Console.WriteLine("Un saludo desde GIT");
         }
 
+        void FuncionGit()
+        {
+            Console.WriteLine("Saludo Git again");
+        }
     }
 }
