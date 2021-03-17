@@ -12,17 +12,20 @@ namespace Consola
         static void Main(string[] args)
         {
 
-            int contador = 0;
 
-            while (true)
-            {
-                Console.WriteLine(contador);
-                if (Console.ReadLine() != "") break; //Si la entrada es diferente de ENTER, acaba el programa
-                Console.Clear();
-                contador++;
-            }
 
-            Console.WriteLine($"Numero de veces: {contador}");
+
+            //int contador = 0;
+
+            //while (true)
+            //{
+            //    Console.WriteLine(contador);
+            //    if (Console.ReadLine() != "") break; //Si la entrada es diferente de ENTER, acaba el programa
+            //    Console.Clear();
+            //    contador++;
+            //}
+
+            //Console.WriteLine($"Numero de veces: {contador}");
 
 
             //Console.Title = "LA CONSOLA HP";
